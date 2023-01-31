@@ -1,0 +1,23 @@
+
+
+.top {
+    background-color:grey;
+    width:1000px;
+    height:200px;
+
+}
+.center {
+    background-color:white;
+    width:1000px;
+    height:400px;
+
+}
+
+.bottom {
+    background-color:blue;
+    width:1000px;
+    height:150px;
+
+}
+
+
